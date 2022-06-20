@@ -1,0 +1,169 @@
+body > *{
+    padding:0 !important;
+}
+.navbar-item ul {
+    margin: 0;
+}
+.logo{
+    height: 53px;
+    width: 147px;
+}
+.plus{
+    margin-left: 14px;
+}
+.navbar-item a {
+    text-decoration: none;
+    color: black;
+margin-left:77px;
+}
+
+.navbar{
+    height: 55px;
+}
+.top-navbar{
+    height: 115px;
+}
+
+.button {
+    background-color: #FF7000;
+    height: 55px;
+    border-radius: 5px;
+    width: 165px;
+    color:white;
+    border: none;
+    font-weight: 400;
+    font-size: 16px;
+}
+.hero{
+    height: 915px;
+    background-color: #000;
+}
+.orange-circle {
+    background-color: #FF7000;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.orange-circle:hover{
+    background-color: #666;
+    cursor: pointer;
+}
+.arrow {
+    height: 42px;
+    width: 23px;
+}
+.hero-body{
+    width: 535px;
+}
+.white-header{
+    font-weight: 700;
+    font-size: 54px;
+    color:white;
+}
+.black-header{
+    font-weight: 700;
+    font-size: 54px;
+    color:black
+}
+.text-highlight{
+    color:#FF7000
+}
+.hero-p{
+    color:#666;
+    margin-top:23px;
+    width: 497px;
+}
+.hero-body button {
+    margin-top: 40px;
+}
+.welcome-section{
+    height: 972px;
+}
+.welcome-body{
+    margin-top:126px;
+    flex-wrap: wrap;
+}
+.welcome-header{
+    min-width: 871px;
+    text-align: center;
+    flex: 0 0 100%;
+}
+.gray-p{
+    color:#666;
+}
+
+.welcome-cards{
+    flex: 0 0 100%;
+}
+.welcome-card{
+    width: 350px;
+    height: 313px;
+    margin-top: 125px;
+    margin-bottom: 60px;
+}
+.number{
+    width: 60px;
+    height: 70px;
+    font-size: 55px;
+    color: rgba(102, 102, 102, 0.1)
+}
+.secondary-header{
+    font-weight: 700;
+    font-size: 28px;
+}
+.card-header-body{
+    flex-wrap:wrap;
+    width:70%;
+}
+.card-header-body> p{
+    flex: 0 0 100%;
+    margin:0;
+}
+.card-header-body>.orange-circle{
+    margin-bottom: 24px;
+}
+.welcome-card-body{
+    margin-top:24px;
+}
+.welcome-body>button{
+    margin-bottom: 135px;
+}
+.urgent-cause{
+    background-color: #444;
+    height: 949px;
+}
+.urgent-cause-body{
+    padding-top:135px;
+}
+.text-color-white{
+    color:white;
+    font-size: 21px;
+}
+.urgent-cause-body{
+    flex-wrap: wrap;
+}
+.urgent-cause-header{
+    flex: 0 0 100%;
+    margin-bottom: 68px;
+}
+.urgent-cause-body-div{
+    width: 480px;
+}
+.urgent-cause-donate{
+    width: 570px;
+    height: 436px;
+    background-color:#333 ;
+}
+.urgent-cause-donate .button{
+    margin-bottom:40px;
+}
+.status-bar{
+    margin-top: 60px;
+    width: 460px;
+}
+.urgent-cause-info .gray-p {
+    margin-top:27px;
+}
