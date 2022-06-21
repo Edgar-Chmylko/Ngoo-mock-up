@@ -214,3 +214,25 @@ margin-left:77px;
 .choose-us-header{
     padding-top: 115px;
 }
+.stats-section{
+    height: 391px;
+    background-color: #222222;
+    background-image: url("/assets/images/world-map.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+}
+.stat-container{
+    width: 25%;
+    height: 90px;
+}
+.stat-container p {
+    font-size: 18px;
+}
+.stat-container h1 {
+    font-size: 45px;
+}
+.stat-container img {
+    width: 90px;
+    height: 90px;
+}
