@@ -194,3 +194,23 @@ margin-left:77px;
 .percentage{
     text-align:right;
 }
+.choose-us-section{
+    height: 946px ;
+    background-color: #f1f1f1 ;
+}
+.video-container {
+    height: 343px;
+}
+.left-content{
+    flex-wrap: wrap;
+}
+.left-content * {
+    flex: 0 0 100%;
+}
+.list-element {
+    height: 65px;
+    background-color: #d6d6d6;
+}
+.choose-us-header{
+    padding-top: 115px;
+}
