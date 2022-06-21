@@ -1,5 +1,6 @@
 body > *{
     padding:0 !important;
+    box-sizing: border-box;
 }
 .navbar-item ul {
     margin: 0;
@@ -82,11 +83,11 @@ margin-left:77px;
 .welcome-section{
     height: 972px;
 }
-.welcome-body{
+.centered-body{
     margin-top:126px;
     flex-wrap: wrap;
 }
-.welcome-header{
+.centered-header{
     min-width: 871px;
     text-align: center;
     flex: 0 0 100%;
@@ -169,4 +170,27 @@ margin-left:77px;
 }
 .help-section{
     height: 1340px;
+}
+.help-card-img{
+    height: 270px;
+    background-color: #333;
+    border-radius: 5px 5px 0 0;
+}
+.help-card{
+    width: 370px;
+    height: 615px;
+    background-color: #f8f8f8;
+}
+.help-card-body{
+    flex-wrap: wrap;
+    padding: 20px;
+}
+.help-card-body * {
+    flex:0 0 100%;
+}
+.help-status-bar{
+    width: 45%;
+}
+.percentage{
+    text-align:right;
 }
