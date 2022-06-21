@@ -275,3 +275,29 @@ margin-left:77px;
     background-color:#222222;
     height: 1040px;
 }
+.event-banner{
+    width: 525px;
+    height: 370px;
+    background-color: #333;
+}
+.date{
+    background-color: #FF7000;
+    height: 97px !important;
+    width: 97px !important;
+    margin: 0;
+}
+.date *{
+    margin:0;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.flex-wrap * {
+    flex: 0 0 100%;
+}
+.upcoming-event-section{
+    padding-top: 135px;
+}
+.events-header{
+    margin-bottom: 88px;
+}
