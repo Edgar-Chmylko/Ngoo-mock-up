@@ -236,3 +236,42 @@ margin-left:77px;
     width: 90px;
     height: 90px;
 }
+.social-media-icon{
+    margin: 10px;
+}
+.volunteer-card{
+    height: 400px;
+    width: 270px;
+}
+.volunteer-banner{
+    background-color: #FF7000;
+    height: 430px;
+    flex-wrap: wrap;
+    padding: auto;
+}
+.volunteer-banner *{
+    flex: 0 0 100%;
+}
+.button-dark {
+    background-color: #222222;
+    height: 55px;
+    border-radius: 5px;
+    width: 165px;
+    color:white;
+    border: none;
+    font-weight: 400;
+    font-size: 16px;
+}
+.banner-img{
+    height: 68px;
+    width: 68px;
+}
+
+.banner-header p{
+    margin:0;
+}
+
+.events-section{
+    background-color:#222222;
+    height: 1040px;
+}
