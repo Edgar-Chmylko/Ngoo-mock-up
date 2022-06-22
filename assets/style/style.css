@@ -311,3 +311,38 @@ margin-left:77px;
 .partners{
     padding-top: 68px;
 }
+.donate-banner{
+    height: 117px;
+    background-color: #FF7000;
+}
+.contacts-section{
+    height: 520px;
+    background-color: #222222;
+    background-image: url("/assets/images/world-map-contacts.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.contact-list-element a{
+text-decoration: none;
+color: white;
+}
+.contact-list-element::before{
+    position: relative;
+    display: inline;
+    padding-right: 8px;
+    content: url("/assets/images/contact-list-arrow.svg");
+}
+.contacts-element{
+    height: 244px;
+    width: 227px;
+}
+.contact-element-header{
+    padding-bottom: 30px;
+}
+.contacts-img {
+    padding-right: 8px;
+}
+.footer-section{
+    background-color: #444;
+    height: 121px ;
+}
