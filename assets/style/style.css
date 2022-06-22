@@ -301,3 +301,13 @@ margin-left:77px;
 .events-header{
     margin-bottom: 88px;
 }
+
+.partner-section{
+    height: 565px;
+}
+.partner-placeholder{
+    border:1px solid #e7e7e7;
+}
+.partners{
+    padding-top: 68px;
+}
